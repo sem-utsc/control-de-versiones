@@ -1,4 +1,4 @@
-# Ejemplo de Pull Request
+# Ejemplo de Pull Request with rebase
 Es un ejemplo para crear un PR.
 
 1. Modificar el codigo
